@@ -3,9 +3,7 @@
 - 🔭 I’m currently working on <a href="https://www.jusbrasil.com.br/"><img align="center" src="https://img.shields.io/badge/-JUSBRASIL-yellow"></a>
 - 🌱 I’m currently learning about RabbitMq and messaging systems						
 - 😄 Pronouns: he/him						
-<style>
-  .size{}
-</style>
+
 <div align="center">						
 	<a href="https://github.com/wlribeiro">						
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wlribeiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>						
