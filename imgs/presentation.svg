@@ -1,0 +1,81 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+
+					display: flex;
+					flex-direction: column;
+					justify-content: center;
+					align-items: center;
+
+					padding: 10px;
+					color: white;
+
+					margin: 0;
+					width: 100%;
+					height: 400px;
+					font-weight: 900;
+
+
+					background-color: rgb(180, 153, 239);
+
+					<!-- border-radius: 10px; -->
+
+				}
+
+				.card {
+					color: black;
+
+					background-color: white;
+					padding: 10px;
+					border: 4px solid black;
+					box-shadow: 4px 4px 0px 0px black;
+					border-radius: 10px;
+					display: flex;
+					align-items: center;
+
+				}
+
+				.game {
+					display: flex;
+					flex-direction: row;
+					padding: 10px;
+					gap: 10px;
+				}
+
+				.game a {
+					text-decoration: none;
+				}
+			</style>
+			<div class="container">
+				<h2>Hello World! I'm William Ribeiro</h2>
+				<p>I do some things:</p>
+
+				<ul>
+					<li>Software Engineer 👨‍💻🌐</li>
+					<li>Movie lover</li>
+					<li>Wast my free time being a indie Game developer 🎮</li>
+					<p>Do you wanna play a game?</p>
+					<div class="game">
+						<a class="card" target="_blank" href="https://wlribeiro.github.io/jokenpo/?choice=ROCK">✊</a>
+						<a class="card" target="_blank" href="https://wlribeiro.github.io/jokenpo/?choice=PAPER">✋</a>
+						<a class="card" target="_blank" href="https://wlribeiro.github.io/jokenpo/?choice=SCISSORS">✌</a>
+					</div>
+
+				</ul>
+
+			</div>
+		</div>
+	</foreignObject>
+</svg>

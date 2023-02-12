@@ -1,16 +1,5 @@
-# Hello World! I'm William Ribeiro 👋						
+<img src="imgs/presentation.svg" width="800" height="400" alt="Click to see the source">
 
-
-#### I do some things:
-* Software Engineer 👨‍💻🌐									
-* Wast my free time being a indie Game developer 🎮
-Oh, do you wanna play a game?
-choose one
-
-    [✊](https://wlribeiro.github.io/jokenpo/?choice=ROCK) [✋](https://wlribeiro.github.io/jokenpo/?choice=PAPER) [✌](https://wlribeiro.github.io/jokenpo/?choice=SCISSORS)
-
-
-* Like a good indie dev, i try draw pixel art 🧑‍🎨👾
 
 #### I have work with some technologies in my life, and i really want to know a little bit more
 
